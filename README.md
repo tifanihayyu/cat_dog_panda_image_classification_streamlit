@@ -4,5 +4,7 @@ An animal images classifier model into three classes namely; cat, dog, and panda
 
 ## To run
 Clone/Fork repository
+
 cd to file 
+
 run pip install -r requirements.txt
