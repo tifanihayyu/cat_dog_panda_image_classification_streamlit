@@ -1,6 +1,5 @@
 # cat_dog_panda_image_classification_streamlit
 
-# first_deploy
 An animal images classifier model into three classes namely; cat, dog, and panda. The model is a multiclass classification and deployed with streamlit.
 
 ## To run
